@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 4-Shooter-AI.Plugins", "Practica 4-Shooter-AI.Plugins.csproj", "{6E253B38-8AC2-9F7C-E164-E50B3B37ECFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 4-Shooter-AI", "Practica 4-Shooter-AI.csproj", "{A17006E0-B2D5-BBDA-A667-08FD8D6D27B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 4-Shooter-AI.Editor", "Practica 4-Shooter-AI.Editor.csproj", "{7C2BC87F-4A5A-C62F-89D3-87E38FF74804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 4-Shooter-AI.Editor.Plugins", "Practica 4-Shooter-AI.Editor.Plugins.csproj", "{D0FEBD6E-F55D-71FD-F984-386285078929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E253B38-8AC2-9F7C-E164-E50B3B37ECFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E253B38-8AC2-9F7C-E164-E50B3B37ECFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E253B38-8AC2-9F7C-E164-E50B3B37ECFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E253B38-8AC2-9F7C-E164-E50B3B37ECFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A17006E0-B2D5-BBDA-A667-08FD8D6D27B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17006E0-B2D5-BBDA-A667-08FD8D6D27B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17006E0-B2D5-BBDA-A667-08FD8D6D27B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17006E0-B2D5-BBDA-A667-08FD8D6D27B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2BC87F-4A5A-C62F-89D3-87E38FF74804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2BC87F-4A5A-C62F-89D3-87E38FF74804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2BC87F-4A5A-C62F-89D3-87E38FF74804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2BC87F-4A5A-C62F-89D3-87E38FF74804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FEBD6E-F55D-71FD-F984-386285078929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FEBD6E-F55D-71FD-F984-386285078929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FEBD6E-F55D-71FD-F984-386285078929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FEBD6E-F55D-71FD-F984-386285078929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
